@@ -9,18 +9,6 @@ This repository provides a production-ready boilerplate for a Node.js backend se
 - **Custom Scripts**: Includes `start:dev` and `start:prod` commands for easy environment-specific server startup.
 - **Logging**: Ready-to-use error logging utility.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Project Structure](#project-structure)
-- [Scripts](#scripts)
-- [Environment Variables](#environment-variables)
-- [Error Handling](#error-handling)
-- [Running the Server](#running-the-server)
-- [License](#license)
-
----
-
 ## Installation
 
 Clone the repository and install the necessary dependencies:
